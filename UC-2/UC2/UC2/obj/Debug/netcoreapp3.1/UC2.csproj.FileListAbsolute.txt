@@ -1,0 +1,13 @@
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.exe
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.deps.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.dll
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\bin\Debug\netcoreapp3.1\UC2.pdb
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.csproj.AssemblyReference.cache
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.dll
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.pdb
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2a\UC2a\obj\Debug\netcoreapp3.1\UC2.genruntimeconfig.cache

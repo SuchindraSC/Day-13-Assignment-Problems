@@ -1,0 +1,12 @@
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.exe
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.deps.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.runtimeconfig.dev.json
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.dll
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\bin\Debug\netcoreapp3.1\UC3.pdb
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.AssemblyInfoInputs.cache
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.AssemblyInfo.cs
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.csproj.CoreCompileInputs.cache
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.dll
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.pdb
+C:\Users\ADVANCED\Desktop\Day 13 Assignments\UC2\UC2\obj\Debug\netcoreapp3.1\UC3.genruntimeconfig.cache
